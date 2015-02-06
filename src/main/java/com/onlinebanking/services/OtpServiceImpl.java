@@ -75,7 +75,7 @@ public class OtpServiceImpl implements OtpService {
 						protected PasswordAuthentication getPasswordAuthentication() {
 							return new PasswordAuthentication(
 									"pitchforkbank@gmail.com",
-									"softwaresecurity");
+									"***removed***");
 						}
 					});
 			try {
@@ -104,7 +104,7 @@ public class OtpServiceImpl implements OtpService {
 						protected PasswordAuthentication getPasswordAuthentication() {
 							return new PasswordAuthentication(
 									"pitchforkbank1@gmail.com",
-									"softwaresecurity");
+									"***removed***");
 						}
 					});
 			try {
@@ -133,7 +133,7 @@ public class OtpServiceImpl implements OtpService {
 						protected PasswordAuthentication getPasswordAuthentication() {
 							return new PasswordAuthentication(
 									"pitchforkbank2@gmail.com",
-									"softwaresecurity");
+									"***removed***");
 						}
 					});
 			try {
